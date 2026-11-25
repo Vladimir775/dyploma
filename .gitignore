@@ -1,0 +1,19 @@
+# Go
+/bin/
+/vendor/
+*.exe
+*.test
+*.out
+
+# SQLite
+*.db
+*.db-shm
+*.db-wal
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
